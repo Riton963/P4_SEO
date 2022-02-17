@@ -141,7 +141,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-  color: rgba(255, 255, 255, 0.6);
+  color: white;
 }
 
 .d-bloc .a-btn:hover,
@@ -661,7 +661,7 @@ label,
 a {
   font-family: 'helvetica';
   font-weight: 400;
-  color: #575757 !important;
+  color: black !important;
 }
 
 .container {
@@ -776,10 +776,6 @@ h4 {
   background-color: #ffffff;
 }
 
-.bgc-dark-slate-blue {
-  background-color: #364577;
-}
-
 .bgc-atomic-tangerine {
   background-color: #f3976c;
 }
@@ -789,12 +785,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
-  color: #ffffff !important;
+  background: #c27956;
+  color: white !important;
 }
 
 .btn-atomic-tangerine:hover {
-  background: #c27956 !important;
+  background: #f3976c !important;
   color: #ffffff !important;
 }
 
